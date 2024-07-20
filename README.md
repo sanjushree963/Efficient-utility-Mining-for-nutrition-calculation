@@ -1,6 +1,6 @@
 # Efficient-utility-Mining-for-nutrition-calculation
 INTRODUCTION
-1.1	Objective of Project
+Objective of Project
 •	  The main objective of this project is to mine the frequent item set and maximum threshold signature of the Health suggestion.
 •	The suggestion will be generated through the food consumed and calorie information.
 •	Here EHAUPM - Enhanced Efficient High Average-Utility Pattern Mining for efficient data retrieval.
